@@ -2,7 +2,12 @@ OVERVIEW:
 The 2020 Pandemic: COVID-19 Cases in the United States (U.S.)
 Three months into the 2020 Coronavirus (COVID-19) pandemic, we wanted to see if the can visually see any trends for mortality rate of COVID-19. More specifically we looked at correlation between COVID-19 cases and income and population density by individual states.
 
-DATA SOURCES WE USE:
+
+GROUP PROJECT MEMBERS: Saki Sugiura, Belinda Soerjohadi, Jessica Nguyen
+
+(Images/heatmap.png)    
+
+DATA SOURCES WE USED:
 
 Census Data
 
