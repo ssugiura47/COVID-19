@@ -5,7 +5,8 @@ Three months into the 2020 Coronavirus (COVID-19) pandemic, we wanted to see if 
 
 GROUP PROJECT MEMBERS: Saki Sugiura, Belinda Soerjohadi, Jessica Nguyen
 
-(Images/heatmap.png)    
+![1-Logo](Images/heatmap.png)    
+![1-Logo](Images/density_mortality.png)
 
 DATA SOURCES WE USED:
 
